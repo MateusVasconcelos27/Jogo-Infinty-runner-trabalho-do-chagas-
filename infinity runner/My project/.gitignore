@@ -1,0 +1,25 @@
+# Ignorar pastas e arquivos gerados pela Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignorar arquivos específicos de IDEs (Visual Studio, VS Code)
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de metadados da Unity
+*.meta
+
+# Ignorar cache do Unity
+/[Aa]ssets/StreamingAssets/UnityCache/
